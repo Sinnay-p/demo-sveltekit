@@ -21,7 +21,7 @@
 							<a href="/sveltekit-simpleapp/build/about">About Us</a>
 						</li>
 						<li class="pl-3 lg:pl-5 xl:pl-8 cursor-pointer text-gray-700 hover:text-gray-400 ease-in">
-							<a href="/sveltekit-simpleapp/build/about">Events</a>
+							<a href="/sveltekit-simpleapp/build/events">Events</a>
 						</li>
 						<li class="pl-3 lg:pl-5 xl:pl-8 cursor-pointer text-gray-700 hover:text-gray-400 ease-in">
 							<a href="/sveltekit-simpleapp/build/charts">Charts</a>
